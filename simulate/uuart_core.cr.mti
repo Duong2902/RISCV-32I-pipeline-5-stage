@@ -1,0 +1,64 @@
+C:/Users/user/EDABK/digital_design/UART/UART/src/UART_core.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/src/UART_core.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module UART_top
+
+Top level modules:
+	UART_top
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/sim/UART_Tx_tb/UART_transmitter_tb.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/sim/UART_Tx_tb/UART_transmitter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module UART_transmitter_tb
+
+Top level modules:
+	UART_transmitter_tb
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/src/UART_clock_gen/Uart_gen_clk.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/src/UART_clock_gen/Uart_gen_clk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module UART_gen_clk
+
+Top level modules:
+	UART_gen_clk
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/src/UART_core_tb.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/src/UART_core_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module UART_top_tb
+
+Top level modules:
+	UART_top_tb
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/src/UART_Tx/UART_transmitter.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/src/UART_Tx/UART_transmitter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module UART_transmitter
+
+Top level modules:
+	UART_transmitter
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/src/UART_clock_gen/sample_clk.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/src/UART_clock_gen/sample_clk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Sample_clk
+
+Top level modules:
+	Sample_clk
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/sim/UART_Tx_tb/UART_transmitter_tb_check.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/sim/UART_Tx_tb/UART_transmitter_tb_check.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module UART_transmitter_tb_check
+
+Top level modules:
+	UART_transmitter_tb_check
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/src/UART_Rx/UART_Reciver.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/src/UART_Rx/UART_Reciver.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Reciver
+
+Top level modules:
+	Reciver
+
+} {} {}} C:/Users/user/EDABK/digital_design/UART/UART/src/UART_clock_gen/clock.v {1 {vlog -work work -stats=none C:/Users/user/EDABK/digital_design/UART/UART/src/UART_clock_gen/clock.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module baudrate
+
+Top level modules:
+	baudrate
+
+} {} {}}

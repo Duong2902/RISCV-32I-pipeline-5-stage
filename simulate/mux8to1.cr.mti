@@ -1,0 +1,14 @@
+C:/Users/user/Downloads/mux_8_to_1.v {1 {vlog -work work -stats=none C:/Users/user/Downloads/mux_8_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_8_to_1
+
+Top level modules:
+	mux_8_to_1
+
+} {} {}} C:/Users/user/Downloads/mux_8_to_1_tb.v {0 {vlog -work work -stats=none {C:\Users\user\Downloads\mux_8_to_1_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_mux8to1
+** Error: (vlog-13069) C:\Users\user\Downloads\mux_8_to_1_tb.v(19): near "initial": syntax error, unexpected initial, expecting ';' or ','.
+** Error: C:\Users\user\Downloads\mux_8_to_1_tb.v(21): (vlog-13205) Syntax error found in the scope following 'a1'. Is there a missing '::'?
+
+} {4.0 6.0} {}}
